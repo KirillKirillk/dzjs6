@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width:  1280px;
+    height: 1084px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+.h1{
+    font-size: 60px;
+    margin-left: 30%;
+}
+.btn{
+    border-color: orange;
+    background-color: #ffffff;
+    color: orange;
+    margin-left: 35%;
+    font-size: 30px;
+    width: 300px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    padding: 80px 10px 23px;
+   
+
+}
+.card__img{
+    width: 100%;
+}
